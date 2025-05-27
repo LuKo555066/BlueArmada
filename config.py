@@ -1,7 +1,7 @@
 # ===== BOT SETTINGS =====
 # Your bot's name and race (use plain strings)
-BOT_NAME = "MyBot"
-BOT_RACE = "Terran"  # Options: Terran, Protoss, Zerg, Random
+BOT_NAME = "Blue Armada"
+BOT_RACE = "Protoss"  # Options: Terran, Protoss, Zerg, Random
 
 # ===== GAME SETTINGS =====
 # Maps configuration
